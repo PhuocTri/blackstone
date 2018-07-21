@@ -244,5 +244,6 @@ echo.
 echo Credits:
 echo This batch script based from few tutorials on internet.
 echo This script includes 32bit gatherosstate.exe from Microsoft Windows 10 1803 iso.
+echo slshim 32bit dynamic link library from https://github.com/vyvojar/slshim/
 echo If you see any Access Denied. or failed to activate, make sure you run this script with Administrative Rights.
 pause > nul

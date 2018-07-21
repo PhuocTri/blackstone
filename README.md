@@ -1,7 +1,7 @@
 # blackstone
 blackstone batch script automatic select Edition and activate Windows 10 with digital license.
 
-this script includes 32bit gatherosstate.exe from Microsoft Windows 10 1803 iso.
+This script includes 32bit gatherosstate.exe from Microsoft Windows 10 1803 iso. slshim 32bit dynamic link library from https://github.com/vyvojar/slshim/
 
 initial version 1.0.0
 supported Windows 10 Edition:
